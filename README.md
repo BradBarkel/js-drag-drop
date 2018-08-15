@@ -3,7 +3,7 @@ Drag and drop using vanilla JavaScript
 
 ## Live Demo
 
-Please visit the [Demo Page](https://bradbarkel.github.io/js-drag-drop) to view.
+Please visit the [Demo Page](https://bradbarkel.github.io/js-drag-drop/) to view.
  
 ## Built With
 * JavaScript - Plain old vanilla Js,no frameworks 
